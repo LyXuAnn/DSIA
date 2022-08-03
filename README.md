@@ -6,7 +6,7 @@ This repository presents the proposed Dimension shifting based Intelligent Algor
 
 DS_PSO_CNOP.py: the implementation of the proposed DSIA framework.
 
-FE_PSO_CNOP.py: the implementation of the proposed FEIA framework.
+FE_PSO_CNOP.py: the implementation of FEIA framework.
 
 dimension_reduction folder: the codes of PCA and RPCA.
 
